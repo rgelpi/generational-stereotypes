@@ -1,0 +1,22 @@
+.Consent {
+    font-size: calc(2px + 2vmin);
+    color: #222;
+    padding: calc(5vmin);
+    background-color: white;
+    opacity: 1.0;
+    height:100vh;
+  }
+  
+.ConsentCheckbox {
+    margin-bottom: 1em;
+    label {
+      cursor: pointer;
+      span {
+        margin-left: 5px;
+      }
+    }
+}
+  
+.ConsentMeta {
+    color: #888888;
+}
