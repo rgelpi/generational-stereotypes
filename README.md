@@ -7,7 +7,8 @@ This repository contains the code for the web experiment (Experiment 4) used in:
 
 Gelpí, R. A., Tang, Y., Jackson, E. C., & Cunningham, W. A. (2025). Stereotypic expectations entrench unequal conventions across generations in deep multi-agent reinforcement learning. PNAS Nexus, 4(3), pgaf076. [https://doi.org/10.1093/pnasnexus/pgaf076](https://doi.org/10.1093/pnasnexus/pgaf076)
 
-> [!NOTE] To see the code for Experiments 1–3, please visit [this GitHub repository](https://github.com/Yikai369/Stereotypic-expectations-entrench-unequal-conventions-across-generations).
+> [!NOTE]
+> To see the code for Experiments 1–3, please visit [this GitHub repository](https://github.com/Yikai369/Stereotypic-expectations-entrench-unequal-conventions-across-generations).
 
 ## Getting started
 
